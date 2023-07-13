@@ -1,0 +1,10 @@
+.comment{
+    max-height: 40vh;
+    overflow-y: scroll;
+}
+
+.commentInput{
+    border: none;
+    outline: none;
+    padding: 5px;
+}
